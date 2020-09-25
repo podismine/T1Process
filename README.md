@@ -11,3 +11,5 @@
 
 现在来看去头皮效果一般，不过速度还不错。全部下来一个人的预处理时间在20min左右。
 可以选择用recon-all来去头皮，预计时间会再增加12min（TODO）。
+
+![去头皮效果图](https://github.com/podismine/T1Process/blob/master/1601025307(1).png)
